@@ -1,0 +1,11 @@
+,logistic w8a
+BFGS,0.97
+Nesterov,1.00
+GD,1.00
+HB,1.00
+Baseline_RNNprop,1.08
+RNNprop,1.09
+LLGD,1.21
+baseline_LLGD,1.22
+LOA_BFGS,1.46
+Newton,190.23

@@ -1,0 +1,11 @@
+,ridge california,ridge diabetes,logistic w8a,logistic mushrooms,logistic synthetic,average speed
+GD,1.00,1.00,1.00,1.00,1.00,1.00
+Nesterov,1.03,1.05,1.00,1.50,0.87,1.09
+HB,1.10,1.16,1.00,2.38,0.96,1.32
+BFGS,2.40,2.99,0.97,1.41,1.70,1.89
+RNNprop,1.84,2.59,1.09,2.68,2.05,2.05
+LLGD,6.08,2.16,1.21,1.48,1.70,2.53
+baseline_LLGD,6.23,2.13,1.22,1.67,1.70,2.59
+LOA_BFGS,3.51,3.27,1.46,2.35,2.95,2.71
+Baseline_RNNprop,6.96,2.43,1.08,1.28,1.87,2.72
+Newton,7.91,10.56,190.23,40.34,8.32,51.47

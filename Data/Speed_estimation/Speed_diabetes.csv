@@ -1,0 +1,11 @@
+,ridge diabetes
+GD,1.00
+Nesterov,1.05
+HB,1.16
+baseline_LLGD,2.13
+LLGD,2.16
+Baseline_RNNprop,2.43
+RNNprop,2.59
+BFGS,2.99
+LOA_BFGS,3.27
+Newton,10.56

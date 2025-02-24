@@ -1,0 +1,11 @@
+,logistic mushrooms
+GD,1.00
+Baseline_RNNprop,1.28
+BFGS,1.41
+LLGD,1.48
+Nesterov,1.50
+baseline_LLGD,1.67
+LOA_BFGS,2.35
+HB,2.38
+RNNprop,2.68
+Newton,40.34

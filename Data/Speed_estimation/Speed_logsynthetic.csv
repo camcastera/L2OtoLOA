@@ -1,0 +1,11 @@
+,logistic synthetic
+Nesterov,0.87
+HB,0.96
+GD,1.00
+baseline_LLGD,1.70
+BFGS,1.70
+LLGD,1.70
+Baseline_RNNprop,1.87
+RNNprop,2.05
+LOA_BFGS,2.95
+Newton,8.32

@@ -1,0 +1,11 @@
+,ridge california
+GD,1.00
+Nesterov,1.03
+HB,1.10
+RNNprop,1.84
+BFGS,2.40
+LOA_BFGS,3.51
+LLGD,6.08
+baseline_LLGD,6.23
+Baseline_RNNprop,6.96
+Newton,7.91
